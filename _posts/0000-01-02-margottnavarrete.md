@@ -2,4 +2,4 @@
  : "¡ Bienvenido a nuestra segunda diapositiva! "
 ---
 HOLA MUNDO
-Use la flecha izquierda para regresar!
+mi primer linea de codigo
